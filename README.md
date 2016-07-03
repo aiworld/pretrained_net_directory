@@ -9,6 +9,6 @@
 * [word2Vec](https://github.com/3Top/word2vec-api) - 213:star: - Not a neural net itself, but useful for training them.
 
 ## Generative
-* [sketch-rnn](https://github.com/hardmaru/sketch-rnn/tree/master/save/kanji) - 242 :star:
+* [sketch-rnn](https://github.com/hardmaru/sketch-rnn/tree/master/save/kanji) - 242:star:
 
 
