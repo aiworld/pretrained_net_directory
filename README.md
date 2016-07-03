@@ -10,6 +10,7 @@
 * [MatConvNet](http://www.vlfeat.org/matconvnet/pretrained/) - 453:star:
 * [ksimonyan VGG](https://gist.github.com/ksimonyan/3785162f95cd2d5fee77#file-readme-md) - 49:star:
 * [VGG Face](http://ccvl.stat.ucla.edu/ccvl/DeepLab/) - 50G+
+* [Deep Driving](http://deepdriving.cs.princeton.edu/) - 20G+
 * [Places CDNS Model](https://github.com/lwwang/Places_CNDS_model) - 8:star:
 * [Network in Network ISRV](https://drive.google.com/folderview?id=0B0IedYUunOQINEFtUi1QNWVhVVU&usp=drive_web) - 0G+
 * [Illustration2vec](http://illustration2vec.net/) - 112:star:
